@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exclusions</key>
+	<array>
+		<dict>
+			<key>$type</key>
+			<string>excludedPath</string>
+			<key>isDirectory</key>
+			<true/>
+			<key>path</key>
+			<string>/Applications/Microsoft Teams.app</string>
+		</dict>
+		<dict>
+			<key>$type</key>
+			<string>excludedPath</string>
+			<key>isDirectory</key>
+			<true/>
+			<key>path</key>
+			<string>~/Library/Application Support/Microsoft/Teams</string>
+		</dict>
+		<dict>
+			<key>$type</key>
+			<string>excludedPath</string>
+			<key>isDirectory</key>
+			<true/>
+			<key>path</key>
+			<string>~/Library/Caches/com.microsoft.teams2</string>
+		</dict>
+		<dict>
+			<key>$type</key>
+			<string>excludedPath</string>
+			<key>isDirectory</key>
+			<true/>
+			<key>path</key>
+			<string>~/Library/Logs/Microsoft Teams</string>
+		</dict>
+		<dict>
+			<key>$type</key>
+			<string>excludedPath</string>
+			<key>isDirectory</key>
+			<true/>
+			<key>path</key>
+			<string>~/Library/WebKit/com.microsoft.teams2</string>
+		</dict>
+		<dict>
+			<key>$type</key>
+			<string>excludedFileName</string>
+			<key>name</key>
+			<string>Microsoft Teams</string>
+		</dict>
+	</array>
+</dict>
+</plist>
